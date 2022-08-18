@@ -1,0 +1,1199 @@
+Hello. Welcome to 'Mission to Mars' simulation! 
+
+Resource placed 
+
+   Day nr 1
+Astronaut HP: 34
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+Base build progress: 12
+ 
+   Day nr 2
+Astronaut HP: 34
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 14
+ 
+   Day nr 3
+Astronaut HP: 18
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 16
+ 
+   Day nr 4
+Astronaut HP: 2
+Astronaut Oxygen: 60
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 5
+Astronaut HP: 52
+Astronaut Oxygen: 60
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 18
+ 
+   Day nr 6
+Astronaut HP: 36
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 20
+ 
+   Day nr 7
+Astronaut HP: 20
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 22
+ 
+   Day nr 8
+Astronaut HP: 4
+Astronaut Oxygen: 0
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 9
+Astronaut HP: 4
+Astronaut Oxygen: 90
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 10
+Astronaut HP: 54
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 24
+ 
+   Day nr 11
+Astronaut HP: 38
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 26
+ 
+   Day nr 12
+Astronaut HP: 22
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 28
+ 
+   Day nr 13
+Astronaut HP: 6
+Astronaut Oxygen: 60
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 14
+Astronaut HP: 56
+Astronaut Oxygen: 50
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 30
+ 
+   Day nr 15
+Astronaut HP: 40
+Astronaut Oxygen: 30
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 32
+ 
+   Day nr 16
+Astronaut HP: 24
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 34
+ 
+   Day nr 17
+Astronaut HP: 8
+Astronaut Oxygen: 20
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 18
+Astronaut HP: 58
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 19
+Astronaut HP: 58
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 36
+ 
+   Day nr 20
+Astronaut HP: 42
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 38
+ 
+   Day nr 21
+Astronaut HP: 26
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 40
+ 
+   Day nr 22
+Astronaut HP: 10
+Astronaut Oxygen: 60
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 23
+Astronaut HP: 60
+Astronaut Oxygen: 50
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 42
+ 
+   Day nr 24
+Astronaut HP: 44
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 44
+ 
+   Day nr 25
+Astronaut HP: 28
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 46
+ 
+   Day nr 26
+Astronaut HP: 12
+Astronaut Oxygen: 10
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 27
+Astronaut HP: 62
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 28
+Astronaut HP: 62
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 48
+ 
+   Day nr 29
+Astronaut HP: 46
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 50
+ 
+   Day nr 30
+Astronaut HP: 30
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 52
+ 
+   Day nr 31
+Astronaut HP: 14
+Astronaut Oxygen: 70
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 32
+Astronaut HP: 64
+Astronaut Oxygen: 60
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 54
+ 
+   Day nr 33
+Astronaut HP: 48
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 56
+ 
+   Day nr 34
+Astronaut HP: 32
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 35
+Astronaut HP: 32
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 58
+ 
+   Day nr 36
+Astronaut HP: 16
+Astronaut Oxygen: 50
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 37
+Astronaut HP: 66
+Astronaut Oxygen: 30
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 60
+ 
+   Day nr 38
+Astronaut HP: 50
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 39
+Astronaut HP: 50
+Astronaut Oxygen: 100
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 62
+ 
+   Day nr 40
+Astronaut HP: 34
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 64
+ 
+   Day nr 41
+Astronaut HP: 18
+Astronaut Oxygen: 50
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 66
+ 
+   Day nr 42
+Astronaut HP: 2
+Astronaut Oxygen: 30
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 43
+Astronaut HP: 52
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 68
+ 
+   Day nr 44
+Astronaut HP: 36
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 45
+Astronaut HP: 36
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 70
+ 
+   Day nr 46
+Astronaut HP: 20
+Astronaut Oxygen: 30
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 72
+ 
+   Day nr 47
+Astronaut HP: 4
+Astronaut Oxygen: 30
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 48
+Astronaut HP: 54
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 74
+ 
+   Day nr 49
+Astronaut HP: 38
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 50
+Astronaut HP: 38
+Astronaut Oxygen: 110
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 76
+ 
+   Day nr 51
+Astronaut HP: 22
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 78
+ 
+   Day nr 52
+Astronaut HP: 6
+Astronaut Oxygen: 30
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 53
+Astronaut HP: 56
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 80
+ 
+   Day nr 54
+Astronaut HP: 40
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 55
+Astronaut HP: 40
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 82
+ 
+   Day nr 56
+Astronaut HP: 24
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 84
+ 
+   Day nr 57
+Astronaut HP: 8
+Astronaut Oxygen: 70
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 58
+Astronaut HP: 58
+Astronaut Oxygen: 50
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 86
+ 
+   Day nr 59
+Astronaut HP: 42
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 88
+ 
+   Day nr 60
+Astronaut HP: 26
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 61
+Astronaut HP: 26
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 90
+ 
+   Day nr 62
+Astronaut HP: 10
+Astronaut Oxygen: 30
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 63
+Astronaut HP: 60
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 64
+Astronaut HP: 60
+Astronaut Oxygen: 110
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 92
+ 
+   Day nr 65
+Astronaut HP: 44
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 94
+ 
+   Day nr 66
+Astronaut HP: 28
+Astronaut Oxygen: 60
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 96
+ 
+   Day nr 67
+Astronaut HP: 12
+Astronaut Oxygen: 40
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 68
+Astronaut HP: 62
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 98
+ 
+   Day nr 69
+Astronaut HP: 46
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 70
+Astronaut HP: 46
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Base build progress: 100
+ 
+   Day nr 71
+Astronaut HP: 30
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 2
+ 
+   Day nr 72
+Astronaut HP: 14
+Astronaut Oxygen: 90
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 73
+Astronaut HP: 64
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 4
+ 
+   Day nr 74
+Astronaut HP: 48
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 6
+ 
+   Day nr 75
+Astronaut HP: 32
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 8
+ 
+   Day nr 76
+Astronaut HP: 16
+Astronaut Oxygen: 40
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 77
+Astronaut HP: 66
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 10
+ 
+   Day nr 78
+Astronaut HP: 50
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 79
+Astronaut HP: 50
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 12
+ 
+   Day nr 80
+Astronaut HP: 34
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 14
+ 
+   Day nr 81
+Astronaut HP: 18
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 16
+ 
+   Day nr 82
+Astronaut HP: 2
+Astronaut Oxygen: 40
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 83
+Astronaut HP: 52
+Astronaut Oxygen: 30
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 18
+ 
+   Day nr 84
+Astronaut HP: 36
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 85
+Astronaut HP: 36
+Astronaut Oxygen: 100
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 20
+ 
+   Day nr 86
+Astronaut HP: 20
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 22
+ 
+   Day nr 87
+Astronaut HP: 4
+Astronaut Oxygen: 50
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 88
+Astronaut HP: 54
+Astronaut Oxygen: 30
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 89
+Astronaut HP: 54
+Astronaut Oxygen: 100
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 24
+ 
+   Day nr 90
+Astronaut HP: 38
+Astronaut Oxygen: 50
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 26
+ 
+   Day nr 91
+Astronaut HP: 22
+Astronaut Oxygen: 30
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 28
+ 
+   Day nr 92
+Astronaut HP: 6
+Astronaut Oxygen: 20
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 93
+Astronaut HP: 56
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 30
+ 
+   Day nr 94
+Astronaut HP: 40
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 95
+Astronaut HP: 40
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 32
+ 
+   Day nr 96
+Astronaut HP: 24
+Astronaut Oxygen: 80
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 34
+ 
+   Day nr 97
+Astronaut HP: 8
+Astronaut Oxygen: 70
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 98
+Astronaut HP: 58
+Astronaut Oxygen: 60
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 36
+ 
+   Day nr 99
+Astronaut HP: 42
+Astronaut Oxygen: 50
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 38
+ 
+   Day nr 100
+Astronaut HP: 26
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 40
+ 
+   Day nr 101
+Astronaut HP: 10
+Astronaut Oxygen: 20
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 102
+Astronaut HP: 60
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 42
+ 
+   Day nr 103
+Astronaut HP: 44
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 104
+Astronaut HP: 44
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 44
+ 
+   Day nr 105
+Astronaut HP: 28
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 46
+ 
+   Day nr 106
+Astronaut HP: 12
+Astronaut Oxygen: 60
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 107
+Astronaut HP: 62
+Astronaut Oxygen: 60
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 48
+ 
+   Day nr 108
+Astronaut HP: 46
+Astronaut Oxygen: 30
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 50
+ 
+   Day nr 109
+Astronaut HP: 30
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 110
+Astronaut HP: 30
+Astronaut Oxygen: 100
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 52
+ 
+   Day nr 111
+Astronaut HP: 14
+Astronaut Oxygen: 70
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 112
+Astronaut HP: 64
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 54
+ 
+   Day nr 113
+Astronaut HP: 48
+Astronaut Oxygen: 30
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 56
+ 
+   Day nr 114
+Astronaut HP: 32
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 115
+Astronaut HP: 32
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 58
+ 
+   Day nr 116
+Astronaut HP: 16
+Astronaut Oxygen: 30
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 117
+Astronaut HP: 66
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 60
+ 
+   Day nr 118
+Astronaut HP: 50
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 62
+ 
+   Day nr 119
+Astronaut HP: 34
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 120
+Astronaut HP: 34
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 64
+ 
+   Day nr 121
+Astronaut HP: 18
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 66
+ 
+   Day nr 122
+Astronaut HP: 2
+Astronaut Oxygen: 50
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 123
+Astronaut HP: 52
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 68
+ 
+   Day nr 124
+Astronaut HP: 36
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 70
+ 
+   Day nr 125
+Astronaut HP: 20
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 72
+ 
+   Day nr 126
+Astronaut HP: 4
+Astronaut Oxygen: 0
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 127
+Astronaut HP: 4
+Astronaut Oxygen: 90
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 128
+Astronaut HP: 54
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 74
+ 
+   Day nr 129
+Astronaut HP: 38
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 76
+ 
+   Day nr 130
+Astronaut HP: 22
+Astronaut Oxygen: 30
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 78
+ 
+   Day nr 131
+Astronaut HP: 6
+Astronaut Oxygen: 10
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 132
+Astronaut HP: 6
+Astronaut Oxygen: 100
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 133
+Astronaut HP: 56
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 80
+ 
+   Day nr 134
+Astronaut HP: 40
+Astronaut Oxygen: 60
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 82
+ 
+   Day nr 135
+Astronaut HP: 24
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 84
+ 
+   Day nr 136
+Astronaut HP: 8
+Astronaut Oxygen: 20
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 137
+Astronaut HP: 58
+Astronaut Oxygen: 10
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 86
+ 
+   Day nr 138
+Astronaut HP: 42
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 139
+Astronaut HP: 42
+Astronaut Oxygen: 70
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 88
+ 
+   Day nr 140
+Astronaut HP: 26
+Astronaut Oxygen: 60
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 90
+ 
+   Day nr 141
+Astronaut HP: 10
+Astronaut Oxygen: 50
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 142
+Astronaut HP: 60
+Astronaut Oxygen: 50
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 92
+ 
+   Day nr 143
+Astronaut HP: 44
+Astronaut Oxygen: 40
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 94
+ 
+   Day nr 144
+Astronaut HP: 28
+Astronaut Oxygen: 20
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 96
+ 
+   Day nr 145
+Astronaut HP: 12
+Astronaut Oxygen: 20
+Astronaut has not enough HP to fight with Marsians, so he chose to go for the water
+Astronaut successfully picked Water
+ 
+   Day nr 146
+Astronaut HP: 62
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 98
+ 
+   Day nr 147
+Astronaut HP: 46
+Astronaut Oxygen: 0
+Astronaut chose to go for the iron
+Astronaut has not enough oxygen, so he has to restore it
+Astronaut successfully picked Oxygen
+ 
+   Day nr 148
+Astronaut HP: 46
+Astronaut Oxygen: 90
+Astronaut chose to go for the iron
+Astronaut is during the fight
+Astronaut won fight and can continue picking this resource
+Astronaut successfully picked Iron
+Spaceship repair progress: 100
+Well done Astronaut, You have survived. You repaired spaceship in 148 days. You are on your way to the Earth.
